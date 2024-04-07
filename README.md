@@ -1,6 +1,5 @@
 - 👋 Buenas! Soy MarCom09, Marcos para los amigos.
 - 👀 Siempre me ha interesado la programación, los ordenadores y etc...
-- 🎓 Ahora mismo estoy cursando la ESO en España.
 - 👨‍💻 Tengo experiencia programando en Python, C++, C#, GML, GDScript, HTML y CSS.
 - 💞️ Estoy disponible para colaborar en cualquier proyecto que esté dentro de mis capacidades.
 - 📫 Podéis contactar conmigo por mi correo: jmiioficial@gmail.com
